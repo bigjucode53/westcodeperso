@@ -255,7 +255,12 @@ input, select, textarea {
 			overflow-x: hidden;
 			overflow-y: auto;
 		}
-
+       #cactus  {
+		   opacity: 60%;
+	   }
+	   #skull  {
+		opacity: 60%;
+	}
 	}
 
 	@media screen and (max-width: 480px) {
